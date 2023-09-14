@@ -1,7 +1,14 @@
-[{
+[
+	{
+		"title": "Bitrock Mainnet",
+		"url": "https://explorer.bit-rock.io",
+		"group": "Mainnets",
+		"icon": "https://svgshare.com/i/xPL.svg"
+	},
+	{
 		"title": "Bitrock Testnet",
-		"url": "https://testnetscan.bit-rock.io",
-		"group": "Testnet",
+		"url": "ttps://testnetscan.bit-rock.io",
+		"group": "Testnets",
 		"icon": "https://svgshare.com/i/xPL.svg"
 	}
 ]
