@@ -7,7 +7,7 @@
 	},
 	{
 		"title": "Bitrock Testnet",
-		"url": "ttps://testnetscan.bit-rock.io",
+		"url": "https://testnetscan.bit-rock.io",
 		"group": "Testnets",
 		"icon": "https://svgshare.com/i/xPL.svg"
 	}
